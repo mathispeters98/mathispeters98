@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mathis Peters
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Full Stack Web Development
